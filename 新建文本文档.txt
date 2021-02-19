@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 iahsio gp[a'
+=======
+hello bigbia
+xiugai
+>>>>>>> dev
